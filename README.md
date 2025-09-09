@@ -7,7 +7,7 @@ I’ve put together a tiny, reproducible Flutter app and collected all system de
 ### TL;DR
 - **Goal**: Read NPW30 scale data over COM4 in Flutter using `flutter_libserialport`.
 - **Status**: COM4 is visible and healthy in Windows tools, but `openReadWrite()` returns `false` with intermittent `errno = 31` ("A device attached to the system is not functioning.") or sometimes `errno = 0` while still failing to open.
-- **Repo**: Add your link here → `[<repo link>](https://github.com/Abelboby/scratch)`
+- **Repo**: Add your link here → [repo link](https://github.com/Abelboby/scratch)
 
 ### Device and setup
 - **Device**: NPW SERIES TABLETOP WEIGHING SCALE – 30 KG (Model: NPW30)
